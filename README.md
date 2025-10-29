@@ -33,7 +33,7 @@ Trade against the crowd: Buy when others are fearful, reduce size when others ar
 <img width="573" height="152" alt="image" src="https://github.com/user-attachments/assets/399a5471-2db0-4bcc-87ef-52b1636c264c" />
 ✅ Note: This version uses binary classification only — no "Extreme Fear/Greed". 
 
-🧠 6. Hidden Trends & Signals
+🧠 3. Hidden Trends & Signals
 
 🔍 Signal 1: The Contrarian Edge
 
@@ -55,7 +55,7 @@ Optimal size is smaller during high sentiment extremes.
 Fear-Biased + Low Activity → Most profitable cohort
 Greed-Biased + High Activity → Highest loss-makers
 
-🎯 7. Actionable Trading Strategies
+🎯 4. Actionable Trading Strategies
 ✅ Strategy 1: Sentiment Filter
 Only enter long positions when sentiment = Fear
 Only enter short positions when sentiment = Greed (with price confirmation) 
@@ -74,7 +74,7 @@ If >60% of trades occur in Greed → you’re FOMO-driven → adjust behavior
 ✅ Strategy 5: Portfolio Allocation
 Allocate 70% of capital to Fear-regime trades, 30% to Greed (for diversification) 
 
-🔮 9. Future Enhancements
+🔮 5. Future Enhancements
 Add numeric Fear & Greed Index (0–100) for regression modeling
 Integrate BTC price data to correlate sentiment with RSI, MACD, etc.
 Build a real-time dashboard (Streamlit/Dash) for live sentiment monitoring
@@ -82,7 +82,7 @@ Train a classifier to predict trade success using sentiment + size + side
 Add leverage inference (if possible via position size / fee ratio)
 
 
-✅ 10. Conclusion
+✅ Conclusion
 This analysis proves that market sentiment is not just noise — it’s a powerful signal that shapes trader behavior and outcomes. By understanding how profitability, risk, and volume shift between Fear and Greed regimes, traders can:
 
 Avoid emotional traps
